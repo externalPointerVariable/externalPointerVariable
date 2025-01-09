@@ -30,11 +30,13 @@
 [![An image of @thakurboy004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thakurboy004)](https://holopin.io/@thakurboy004) 
 
 # Github Stats:
-![thakurboy004's Stats](https://github-readme-stats.vercel.app/api?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![externalPointerVariable's Stats](https://github-readme-stats.vercel.app/api?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![thakurboy004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=externalPointerVariable&theme=vue-dark&hide_border=true)
+![externalPointerVariable's Streak](https://github-readme-streak-stats.herokuapp.com/?user=externalPointerVariable&theme=vue-dark&hide_border=true)
 
-![thakurboy004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/externalPointerVariable?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![externalPointerVariable's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=externalPointerVariable&icon=0&color=0)](https://visitcount.itsvg.in)
