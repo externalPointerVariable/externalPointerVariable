@@ -29,11 +29,11 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
  
 
-# Github Stats:
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="externalPointerVariable's Stats" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="externalPointerVariable's Top Languages" width="45%">
-</div>
+# 📈 Github Stats:
+
+| ![externalPointerVariable's Stats](https://github-readme-stats.vercel.app/api?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![externalPointerVariable's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) |
+|:--|--:|
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
