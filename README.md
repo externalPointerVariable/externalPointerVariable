@@ -30,13 +30,12 @@
  
 
 # Github Stats:
-![externalPointerVariable's Stats](https://github-readme-stats.vercel.app/api?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="externalPointerVariable's Stats" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="externalPointerVariable's Top Languages" width="45%">
+</div>
 
-![externalPointerVariable's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=externalPointerVariable&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
