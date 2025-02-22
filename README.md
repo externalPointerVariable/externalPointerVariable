@@ -1,6 +1,7 @@
 <img src="Black Technology LinkedIn Banner.jpg" alt="Profile Banner">
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
