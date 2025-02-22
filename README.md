@@ -37,13 +37,13 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
 </div>
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=externalPointerVariable&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
