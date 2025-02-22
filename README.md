@@ -1,6 +1,7 @@
 <img src="Black Technology LinkedIn Banner.jpg" alt="Profile Banner">
 
 # 💫 About Me:
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 🔭 I’m currently working on my CP and DSA.<br><br>🌱 I’m currently learning Data Science and Machine learning.<br><br>👯 I’m looking to collaborate on Software projects.<br><br>🤔 I’m looking for help with proper guidance and mentorship.<br><br>📫 How to reach me: 📭 : vicky986847@gmail.com
