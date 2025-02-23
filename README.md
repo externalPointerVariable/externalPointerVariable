@@ -3,7 +3,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 💫 About Me:
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 🔭 I’m currently working on my CP and DSA.<br><br>🌱 I’m currently learning Data Science and Machine learning.<br><br>👯 I’m looking to collaborate on Software projects.<br><br>🤔 I’m looking for help with proper guidance and mentorship.<br><br>📫 How to reach me: 📭 : vicky986847@gmail.com
 
