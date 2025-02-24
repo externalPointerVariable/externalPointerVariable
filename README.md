@@ -33,7 +33,7 @@
 
 | ![externalPointerVariable's Stats](https://github-readme-stats.vercel.app/api?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&card_width=450) | ![externalPointerVariable's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=450) |
 |:--|--:|
-| <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=externalPointerVariable&theme=vue-dark&hide_border=true&card_width=450" alt="GitHub Streak" width="450"/></a></p> |
+| <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=externalPointerVariable&theme=vue-dark&hide_border=true&card_width=450" alt="GitHub Streak" width="450"/></a></p> | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=externalPointerVariable&theme=vue-dark&hide_border=true) |
 
 
 
