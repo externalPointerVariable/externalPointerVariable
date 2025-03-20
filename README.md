@@ -47,6 +47,6 @@
 
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=externalPointerVariable&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=externalPointerVariable&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" />
 
 
