@@ -5,7 +5,7 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-🔭 I’m currently working on my CP and DSA.<br><br>🌱 I’m currently learning Data Science and Machine learning.<br><br>👯 I’m looking to collaborate on Software projects.<br><br>🤔 I’m looking for help with proper guidance and mentorship.<br><br>📫 How to reach me: 📭 : vicky986847@gmail.com
+🧑‍💻Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhelloabhi004&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/helloabhi004/) & [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhelloabhi004&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/helloabhi004/) on [Leetcode](https://leetcode.com/helloabhi004)<br><br>🌱 I’m currently learning Data Science and Machine learning.<br><br>👯 I’m looking to collaborate on Software projects.<br><br>🤔 I’m looking for help with proper guidance and mentorship.<br><br>📫 How to reach me: 📭 : vicky986847@gmail.com
 
 
 
