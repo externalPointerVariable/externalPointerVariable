@@ -30,11 +30,36 @@
  
 
 # 📈 Github Stats:
-| ![externalPointerVariable's Stats](https://github-readme-stats.vercel.app/api?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&card_width=450) | ![externalPointerVariable's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=450) |
-|:--|--:|
-| <p align="center"><a href="https://github.com/externalPointerVariable"><img src="https://streak-stats.demolab.com?user=externalPointerVariable&theme=vue-dark&hide_border=true&card_width=450" alt="GitHub Streak" width="450"/></a></p> | <p align="center"><a href="https://github.com/externalPointerVariable"><img src="https://github-readme-activity-graph.vercel.app/graph?username=externalPointerVariable&theme=vue-dark&hide_border=true" alt="GitHub Activity Graph" width="480" height="auto"/></a></p> |
-
-
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&card_width=450" alt="externalPointerVariable's Stats" width="450"/>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=externalPointerVariable&theme=github_dark" alt="externalPointerVariable's Top Languages" width="450"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://github.com/externalPointerVariable">
+          <img src="https://streak-stats.demolab.com?user=externalPointerVariable&theme=vue-dark&hide_border=true&card_width=450" alt="GitHub Streak" width="450"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://github.com/externalPointerVariable">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=externalPointerVariable&theme=vue-dark&hide_border=true" alt="GitHub Activity Graph" width="480" height="auto"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>|
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
