@@ -34,7 +34,7 @@
   <tr>
     <td>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=externalPointerVariable&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&card_width=450" alt="externalPointerVariable's Stats" width="450"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=externalPointerVariable&theme=radical&show_icons=true&hide_border=true&count_private=true&card_width=450" alt="externalPointerVariable's Stats" width="450"/>
       </p>
     </td>
     <td>
