@@ -70,6 +70,6 @@
 
 
 # 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=externalPointerVariable&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" />
+<img src="https://github-profile-trophy-beryl-three.vercel.app/?username=externalPointerVariable&theme=radical&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" />
 
 
